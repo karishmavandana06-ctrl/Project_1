@@ -1,5 +1,4 @@
-# Project Title 
-Enhanced Real Time-Drone Detection using Yolo
+# Project Title/Enhanced Real Time-Drone Detection using Yolo
 
 ## Over view
 This project is a real-time drone detection system developed using the YOLOv5 deep learning model. The system detects drones in images and video streams while distinguishing them from birds, improving surveillance accuracy and reducing false detections.
